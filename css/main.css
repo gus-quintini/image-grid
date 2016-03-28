@@ -87,4 +87,14 @@ img:nth-child(5) {
 
 @media only screen and (min-width: 60em) {
 
+  img:nth-child(1) {
+    display: inline-block;
+    width: 66.6666%;
+    float: left;
+  }
+
+  img:nth-child(5) {
+    display: inline-block;
+  }
+
 }
